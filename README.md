@@ -15,9 +15,8 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 <p>
-<img src = 'screenshot/img1.jpg'>        
+<img src = 'screenshot/img1.jpg' height = 500>        
 
 
-<img src = 'screenshot/img2.jpg'>
-
-<p>
+<img src = 'screenshot/img2.jpg' height = 500>
+</p>
